@@ -1,0 +1,2 @@
+luaplayer game.lua
+pause
